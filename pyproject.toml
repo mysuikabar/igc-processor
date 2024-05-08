@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "igc-processor"
-version = "0.1.0"
+version = "0.1.1"
 description = "package for processing glider flight log data in IGC file format"
 authors = ["suikabar <mizuho.suikabar@gmail.com>"]
 license = "MIT"
