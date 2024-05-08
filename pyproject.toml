@@ -5,6 +5,7 @@ description = "package for processing glider flight log data in IGC file format"
 authors = ["suikabar <mizuho.suikabar@gmail.com>"]
 license = "MIT"
 readme = "README.md"
+repository = "https://github.com/mysuikabar/igc-processor"
 
 [tool.poetry.dependencies]
 python = "^3.12"
